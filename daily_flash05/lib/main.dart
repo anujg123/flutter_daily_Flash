@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:daily_flash06/question1.dart';
-// import 'package:daily_flash06/question2.dart';
-// import 'package:daily_flash06/question3.dart';
-// import 'package:daily_flash06/question4.dart';
-// import 'package:daily_flash06/question5.dart';
+import 'package:daily_flash05/question1.dart';
+// import 'package:daily_flash05/question2.dart';
+// import 'package:daily_flash05/question3.dart';
+// import 'package:daily_flash05/question4.dart';
+// import 'package:daily_flash05/question5.dart';
 
 void main()=> runApp(const MyApp());
 
